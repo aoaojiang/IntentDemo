@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IntentDemo</string>
+    <string name="button1">Start Second Activity</string>
+    <string name="editText1">请输入姓名</string>
+    <string name="textView2">This is Second Activity.</string>
+    <string name="button2">返回</string>
+    <string name="button3">隐式</string>
+    <string name="button4">Dialer</string>
+    <string name="button5">Call</string>
+    <string name="button6">短信</string>
+    <string name="button7">Email</string>
+    <string name="button8">Send Email</string>
+    <string name="button9">Web浏览器</string>
+    <string name="button10">地图</string>
+    <string name="button11">MP3</string>
+    <string name="button12">摄像头</string>
+</resources>
